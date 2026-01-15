@@ -11,6 +11,7 @@ namespace OOP_Project1
       static void Main(string[] args)
       {
          Console.WriteLine("showing students what to do");
+         Console.WriteLine("adding another line for another commit-push");   
       }
    }
 }
